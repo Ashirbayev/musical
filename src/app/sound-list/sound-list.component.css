@@ -1,0 +1,7 @@
+table.mat-table {
+  cursor: pointer;
+}
+
+.mat-cell, .mat-header-cell {
+  cursor: pointer;
+}
